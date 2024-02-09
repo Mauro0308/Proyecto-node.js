@@ -21,7 +21,7 @@ Creado con Node.js y Mysql
   <a href="https://ibb.co/vVz53s1"><img src="https://i.ibb.co/34hXpf1/3.png" alt="3" border="0"></a>
 </p>
 
-## ista de la base de datos
+## Lista de la base de datos
 
 <p align="center">
   <a href="https://ibb.co/ySp9ds1"><img src="https://i.ibb.co/gVd2mgp/4.png" alt="4" border="0"></a>
